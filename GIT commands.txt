@@ -14,6 +14,10 @@ If you are having a readme.txt file in the repository do git pull origin master
 git push -f origin master where f stands for forcefully
 
 Branching in GIT
+git branch "Branch name"
+git checkout "Branch name"
+
+
 
 
 
