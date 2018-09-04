@@ -13,6 +13,8 @@ git remote set-url origin "Github repositoty name"
 If you are having a readme.txt file in the repository do git pull origin master
 git push -f origin master where f stands for forcefully
 
+Branching in GIT
+
 
 
 
