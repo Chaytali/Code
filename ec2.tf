@@ -1,3 +1,13 @@
+terraform {
+  cloud {
+    organization = "my-org123"
+
+    workspaces {
+      name = "github-actions"
+    }
+  }
+}
+
 provider "aws" {
     access_key = "AKIAWFN6DT7CH67JSW4T"
     secret_key = "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"
