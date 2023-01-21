@@ -1,8 +1,6 @@
 terraform {
   
-  backend "remote" {
-    hostname = "app.terraform.io"
-  }
+  
   cloud {
     organization = "my-org123"
 
